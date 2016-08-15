@@ -1,0 +1,23 @@
+body {
+	text-align: center;
+	background: url("images/shenandoah.jpg");
+	background-size: cover;
+	color: #000034;
+	font-family: Arial;
+	font-weight: bold;
+}
+
+h1 {
+	font-size: 75px ;
+}
+#slogan{
+	font-size: 50px;
+}
+
+p, ul, li {
+	font-size: 25px;
+}
+
+hr {
+	width: 500px;
+}
