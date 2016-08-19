@@ -1,0 +1,29 @@
+@import url(https://fonts.googleapis.com/css?family=Candal);
+@import url(https://fonts.googleapis.com/css?family=Merriweather);
+
+body {
+	text-align: center;
+	background: url("images/shenandoah.jpg");
+	background-size: cover;
+	color: black;
+	font-family: Arial;
+	font-weight: bold;
+}
+
+h1 {
+	font-family: Candal;
+	font-size: 100px;
+}
+#slogan{
+	font-size: 50px;
+
+}
+
+p, ul, li {
+	font-size: 25px;
+	font-family: Merriweather;
+}
+
+hr {
+	width: 500px;
+}
